@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c83aad1-a8e4-4c36-a8e1-e8d940bb573e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/farrel/lambda/app/ConsumerApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/farrel/lambda/app/FunctionApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/farrel/lambda/app/PredicateApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/farrel/lambda/app/SupplierApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/farrel/lambda/SimpleAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/farrel/lambda/SimpleAction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/farrel/lambda/app/SimpleActionApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/farrel/lambda/app/SimpleActionApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +43,68 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.SupplierApp">
+    <configuration name="ConsumerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="farrel.lambda.app.ConsumerApp" />
+      <module name="java-lambda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="farrel.lambda.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="farrel.lambda.app.FunctionApp" />
+      <module name="java-lambda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="farrel.lambda.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PredicateApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="farrel.lambda.app.PredicateApp" />
+      <module name="java-lambda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="farrel.lambda.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SupplierApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="farrel.lambda.app.SupplierApp" />
+      <module name="java-lambda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="farrel.lambda.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SupplierApp" />
+        <item itemvalue="Application.PredicateApp" />
+        <item itemvalue="Application.FunctionApp" />
+        <item itemvalue="Application.ConsumerApp" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
