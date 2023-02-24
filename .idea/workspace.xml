@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c83aad1-a8e4-4c36-a8e1-e8d940bb573e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/farrel/lambda/app/LazyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/farrel/lambda/app/OptionalApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LazyApp">
+  <component name="RunManager" selected="Application.OptionalApp">
     <configuration name="ForEachApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="farrel.lambda.app.ForEachApp" />
       <module name="java-lambda" />
@@ -90,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodReferenceApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="farrel.lambda.app.MethodReferenceApp" />
+    <configuration name="OptionalApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="farrel.lambda.app.OptionalApp" />
       <module name="java-lambda" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OptionalApp" />
         <item itemvalue="Application.LazyApp" />
         <item itemvalue="Application.MapForEachApp" />
         <item itemvalue="Application.RemoveIfApp" />
         <item itemvalue="Application.ForEachApp" />
-        <item itemvalue="Application.MethodReferenceApp" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +139,7 @@
       <workItem from="1677099396419" duration="4029000" />
       <workItem from="1677117811570" duration="414000" />
       <workItem from="1677118310802" duration="35000" />
-      <workItem from="1677184826088" duration="4090000" />
+      <workItem from="1677184826088" duration="7454000" />
     </task>
     <servers />
   </component>
